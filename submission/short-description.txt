@@ -1,0 +1,2 @@
+CANONLOOP is an autonomous continuity director that plans multi-format generative media campaigns, detects visual identity drift, repairs only failed constraints, and preserves every decision as replayable provenance. The public SIX-LINE HALO demo is a transparent deterministic Replay; Genblaze Pipeline, manifest verification, and AgentLoop are tested with MockProvider, while live provider and B2 verification remain explicitly unverified without credentials.
+

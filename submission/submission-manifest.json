@@ -1,0 +1,36 @@
+{
+  "projectName": "CANONLOOP",
+  "version": "0.1.0",
+  "gitCommit": "UNCOMMITTED",
+  "buildDate": "2026-07-22",
+  "appUrl": "NOT_DEPLOYED",
+  "repositoryUrl": "https://github.com/estona815/CANONLOOP",
+  "videoUrl": "NOT_UPLOADED",
+  "providers": ["Genblaze MockProvider", "OpenAI built-in image generation for synthetic design assets"],
+  "models": ["canonloop-fixture-v1", "canonloop-fixture-v2"],
+  "genblazeVersion": "0.3.6",
+  "genblazePipelineVerified": true,
+  "genblazeAgentLoopVerified": true,
+  "liveProviderVerified": false,
+  "b2Verified": false,
+  "manifestHashes": ["a70ef0abf5140df9738b56e4d9f9b8498d34939a606ab7be3786e0bbbb0560c9"],
+  "testResults": {"backend": "23 passed", "frontend": "4 passed", "lint": "passed", "typecheck": "passed", "build": "passed"},
+  "screenshots": [
+    "artifacts/screenshots/01-landing.png",
+    "artifacts/screenshots/02-visual-canon.png",
+    "artifacts/screenshots/03-campaign-plan.png",
+    "artifacts/screenshots/04-generation-runs.png",
+    "artifacts/screenshots/05-continuity-review.png",
+    "artifacts/screenshots/06-repair-comparison.png",
+    "artifacts/screenshots/07-approved-campaign.png",
+    "artifacts/screenshots/08-provenance.png",
+    "artifacts/screenshots/09-b2-storage.png",
+    "artifacts/screenshots/10-mobile-landing.png",
+    "artifacts/screenshots/11-mobile-demo.png"
+  ],
+  "knownLimitations": [
+    "No external generation-provider API was called",
+    "No authenticated Backblaze B2 operation was executed",
+    "Continuity scores are deterministic fixture evidence"
+  ]
+}

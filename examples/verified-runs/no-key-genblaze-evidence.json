@@ -1,0 +1,13 @@
+{
+  "coreVersion": "0.3.6",
+  "pipelineCompleted": true,
+  "pipelineManifestVerified": true,
+  "pipelineCanonicalHash": "a70ef0abf5140df9738b56e4d9f9b8498d34939a606ab7be3786e0bbbb0560c9",
+  "agentLoopPassed": true,
+  "agentLoopIterations": 2,
+  "parentLinked": true,
+  "provider": "mock",
+  "model": "canonloop-fixture-v1",
+  "disclosure": "Real Genblaze Pipeline and AgentLoop with MockProvider; no live generation or B2 claim."
+}
+

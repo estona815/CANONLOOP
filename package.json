@@ -1,0 +1,14 @@
+{
+  "name": "canonloop",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@11.9.0",
+  "scripts": {
+    "dev": "pnpm --filter @canonloop/web dev",
+    "build": "pnpm --filter @canonloop/contracts build && pnpm --filter @canonloop/web build",
+    "lint": "pnpm -r lint",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test",
+    "readiness": "PYTHONPATH=services/api .venv/bin/python scripts/submission_readiness.py"
+  }
+}

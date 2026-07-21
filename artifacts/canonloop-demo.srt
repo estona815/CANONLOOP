@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:08,000
+CANONLOOP keeps one visual identity consistent across every campaign format.
+
+2
+00:00:08,000 --> 00:00:16,000
+1 / VISUAL CANON — Lock identity, wardrobe, palette, lighting, and the six-line emblem.
+
+3
+00:00:16,000 --> 00:00:24,000
+2 / CAMPAIGN PLAN — Create four format briefs with shared anchors and bounded retries.
+
+4
+00:00:24,000 --> 00:00:32,000
+3 / GENERATION — Replay uses Genblaze MockProvider and deterministic local fixtures; no external API call.
+
+5
+00:00:32,000 --> 00:00:40,000
+4 / REVIEW — The vertical story is rejected: four emblem lines observed, six required.
+
+6
+00:00:40,000 --> 00:00:48,000
+5 / REPAIR — Patch only the failed symbol constraint and preserve every passing attribute.
+
+7
+00:00:48,000 --> 00:00:56,000
+6 / APPROVE — Symbol compliance rises from 0.64 to 0.94 without regenerating passing assets.
+
+8
+00:00:56,000 --> 00:01:04,000
+7 / PROVENANCE — Record hashes, prompt version, decisions, and parent-linked repair lineage.
+
+9
+00:01:04,000 --> 00:01:12,000
+8 / STORAGE — B2 rows are Replay evidence and explicitly marked unverified because no B2 key was used.
+

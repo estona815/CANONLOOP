@@ -1,0 +1,23 @@
+# Hackathon Requirements
+
+Verified July 21–22, 2026 from the official Devpost page and Backblaze/Genblaze sources.
+
+| Requirement | Status | Evidence |
+| --- | --- | --- |
+| Deadline: Aug 3, 2026 5:00 PM ET / Aug 4 06:00 KST | VERIFIED | https://backblaze-generative-media.devpost.com/ |
+| Working app URL | NEEDS_CONFIRMATION | Deployment pending |
+| GitHub repository | NEEDS_CONFIRMATION | Publication pending |
+| Providers and models listed | VERIFIED | `submission/providers-and-models.md` |
+| Explain B2 and Genblaze usage | VERIFIED | Accurate evidence boundary documented |
+| Short functioning demo video | NEEDS_CONFIRMATION | Local capture pending |
+| Actual B2 and Genblaze use expected | VERIFIED | Rules/overview; B2 live requirement remains unmet |
+| Adults in permitted jurisdictions | NEEDS_CONFIRMATION | User remains responsible for eligibility affirmation |
+
+Official page: https://backblaze-generative-media.devpost.com/
+Official rules: https://backblaze-generative-media.devpost.com/rules
+Genblaze repository: https://github.com/backblaze-labs/genblaze
+Backblaze S3 API: https://www.backblaze.com/docs/cloud-storage-s3-compatible-api
+
+Internal decision: submit a transparent Replay build if the user instructs submission without API
+credentials. Never describe local MockProvider or fake object records as live evidence.
+
