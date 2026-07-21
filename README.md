@@ -13,9 +13,9 @@ B2 has not been verified because API credentials were intentionally not supplied
 
 - Local app: `http://localhost:3000`
 - Guided Replay: `http://localhost:3000/demo?scenario=six-line-halo&mode=replay&autoplay=1`
-- Hosted demo URL: `NOT DEPLOYED`
+- Hosted demo URL: `https://canonloop.vercel.app`
 - Public repository URL: `https://github.com/estona815/CANONLOOP`
-- Public video URL: `NOT UPLOADED`
+- Public video URL: `https://youtu.be/CDNU7uKoZZ0`
 
 ![CANONLOOP workspace concept](artifacts/design/workspace-concept.png)
 

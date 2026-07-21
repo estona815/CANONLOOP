@@ -6,8 +6,7 @@
 - [x] Real Genblaze Pipeline, manifest verify, and AgentLoop with MockProvider
 - [ ] Real generation-provider run
 - [ ] Real B2 PUT/HEAD/GET/hash verification
-- [ ] Public repository
-- [ ] Hosted app
-- [ ] Public video
+- [x] Public repository
+- [x] Hosted app
+- [x] Public video
 - [ ] Devpost final receipt
-
