@@ -16,6 +16,7 @@ B2 has not been verified because API credentials were intentionally not supplied
 - Hosted demo URL: `https://canonloop.vercel.app`
 - Public repository URL: `https://github.com/estona815/CANONLOOP`
 - Public video URL: `https://youtu.be/CDNU7uKoZZ0`
+- Devpost submission URL: `https://devpost.com/software/canonloop`
 
 ![CANONLOOP workspace concept](artifacts/design/workspace-concept.png)
 

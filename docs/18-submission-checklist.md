@@ -9,4 +9,4 @@
 - [x] Public repository
 - [x] Hosted app
 - [x] Public video
-- [ ] Devpost final receipt
+- [x] Devpost final receipt: https://devpost.com/software/canonloop

@@ -6,6 +6,8 @@
   "appUrl": "https://canonloop.vercel.app",
   "repositoryUrl": "https://github.com/estona815/CANONLOOP",
   "videoUrl": "https://youtu.be/CDNU7uKoZZ0",
+  "devpostUrl": "https://devpost.com/software/canonloop",
+  "devpostSubmittedAt": "2026-07-22T01:15:18+09:00",
   "providers": ["Genblaze MockProvider", "OpenAI built-in image generation for synthetic design assets"],
   "models": ["canonloop-fixture-v1", "canonloop-fixture-v2"],
   "genblazeVersion": "0.3.6",
